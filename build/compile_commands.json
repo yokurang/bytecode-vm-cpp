@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/yokurang/Projects/bytecode-vm-cpp/build",
+  "command": "/usr/bin/clang++  -I/Users/yokurang/Projects/bytecode-vm-cpp/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o CMakeFiles/main.dir/src/main.cpp.o -c /Users/yokurang/Projects/bytecode-vm-cpp/src/main.cpp",
+  "file": "/Users/yokurang/Projects/bytecode-vm-cpp/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+}
+]
